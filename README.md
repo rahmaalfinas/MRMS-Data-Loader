@@ -20,7 +20,7 @@ This code provides extraction from grib2.gz format to grib2 format then analyzin
 python main.py process
 ```
 
-3 **Or run modules independently:**
+3. **Or run modules independently:**
 
 ```bash
 python main.py [command]
