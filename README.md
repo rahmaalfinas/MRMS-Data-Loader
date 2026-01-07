@@ -25,11 +25,15 @@ python main.py process
 ```bash
 python main.py [command]
 ```
-analyze     - Analyze data and show storm patch locations
-process     - Run full pipeline (analyze + crop)
-extract     - Extract .grib2.gz files only
-crop        - Crop patches only (requires analysis first)
-help        - Show help
+analyze : Analyze data and show storm patch locations
+
+process : Run full pipeline (analyze + crop)
+
+extract : Extract .grib2.gz files only
+
+crop : Crop patches only (requires analysis first)
+
+help : Show help
 
 4. **Configuration:**
 
