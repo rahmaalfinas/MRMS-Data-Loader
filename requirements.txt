@@ -1,0 +1,6 @@
+# Minimal requirements
+numpy
+xarray
+cfgrib
+matplotlib
+Pillow
